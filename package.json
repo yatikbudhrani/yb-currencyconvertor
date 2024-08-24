@@ -1,0 +1,26 @@
+{
+  "name": "yb-currencyconvertor",
+  "version": "1.0.0",
+  "description": "A npm package to inter convert currencies.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatikbudhrani/yb-currencyconvertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yatikbudhrani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yatikbudhrani/yb-currencyconvertor/issues"
+  },
+  "homepage": "https://github.com/yatikbudhrani/yb-currencyconvertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
